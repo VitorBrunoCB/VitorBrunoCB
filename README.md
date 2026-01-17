@@ -1,16 +1,14 @@
-## Hi there 👋
+### ⚡ GitHub Stats
 
-<!--
-**VitorBrunoCB/VitorBrunoCB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iKevinsz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iKevinsz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://raw.githubusercontent.com/iKevinsz/iKevinsz/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+---
